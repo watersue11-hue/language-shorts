@@ -1,0 +1,7 @@
+streamlit>=1.36
+moviepy>=1.0.3
+pillow>=10.0
+numpy>=1.26
+gTTS>=2.5.0
+imageio
+imageio-ffmpeg
